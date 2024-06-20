@@ -3,7 +3,7 @@ default: &default
   encoding: unicode
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   username: y_app
-  password: correct_password_here
+  password: 12344478Aa
   host: localhost
 
 development:
